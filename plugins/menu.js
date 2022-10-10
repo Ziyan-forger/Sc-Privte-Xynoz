@@ -76,7 +76,7 @@ const defaultMenu = {
  *🅛* = Limit
 
 %readmore`.trimStart(),
-  header: '❏┄┅━┅┄〈 *〘 %category 〙*\n│',
+  header: '❏┄┅━┅┄〈 *〘 %category 〙*\n│',
     body: '┊≫ %cmd %islimit %isPremium',
   footer: '│\n┗━═┅═━━┅┄๑\n',
   after: `  ${'✧\n┬ 📮 *Note* :\n│ 𝙹𝙸𝙺𝙰 𝙼𝙴𝙻𝙰𝙽𝙶𝙶𝙰𝚁 𝚃𝙾𝚂 𝙰𝙺𝙰𝙽 𝙳𝙸 𝙱𝙰𝙽 𝙿𝙴𝚁𝙼𝙰𝙽𝙴𝙽! ^_^\n╰━━━━━━━━━━━━━━━━┈─◂'}`,
@@ -180,9 +180,9 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://telegra.ph/file/9186962c3ffa47d6616c0.jpg'
+    let url = 'https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
     conn.sendButton(m.chat,
-`𝚂𝚒𝚖𝚙𝚕𝚎 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 | 𝙱𝚢 𝚇𝚢𝚗𝚘𝚣
+`𝚂𝚒𝚖𝚙𝚕𝚎 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 | 𝙱𝚢 Yuutaa
 
 ${wish()} ${name}
 `, text.trim(), `https://telegra.ph/file/b9c83f723c52fceaf0a34.jpg`, [
