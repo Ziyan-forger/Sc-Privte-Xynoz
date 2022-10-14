@@ -101,8 +101,8 @@ global.wm2 = 'POWER - MD'
 global.wm3 = 'POWER - MD | BY POWER - BOTS'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `📮 ITSUKI - MD | By ${global.nameown}`
-global.author = 'YuuTaa✍' 
+global.titlebot = `📮 POWER - MD | By ${global.nameown}`
+global.author = 'Nolse✍' 
 
 
 /*============== LOGO ==============*/
