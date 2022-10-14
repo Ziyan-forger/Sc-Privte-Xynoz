@@ -106,7 +106,7 @@ global.author = 'YuuTaa✍'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg' //Main Thumbnail
 global.imagebot = ' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
 global.giflogo = ' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
 global.thumbs = [' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg']
@@ -123,7 +123,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
+global.thumbdoc = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
