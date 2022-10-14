@@ -30,29 +30,29 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://www.instagram.com/invites/contact/?i=fj68j8k44hfc&utm_content=2g38low'
+global.sig = 'https://instagram.com/maouk.store'
 global.sgh = 'https://github.com/zodress'
 global.sgc = 'https://chat.whatsapp.com/G4mO5FfkELyAoBHjjWikzB'
-global.swa = 'wa.me/6285172402754'
+global.swa = 'wa.me/6285942994641'
 
 /*============== PAYMENT ==============*/
 global.pdana = 'HUB OWNER'
 global.povo = 'HUB OWNER'
 global.pgopay = 'HUB OWNER'
-global.ppulsa = 'HUB OWNER'
-global.ppulsa2 = 'HUB OWNER'
+global.ppulsa = '085172402754'
+global.ppulsa2 = '085172402754'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '79618374728'
-global.nomorown = '6285172402754'
-global.namebot = 'ITSUKI - MD'
-global.nameown = 'YuuTaa Storee'
+global.nomorbot = '628172398526'
+global.nomorown = '6285942994641'
+global.namebot = 'POWER - MD'
+global.nameown = 'Nolse Store'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285172402754', 'YuuTaa', 'true']
+  ['6285942994641', 'Nolse Store', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -96,9 +96,9 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'ITSUKI - MD | BY ITSUKI - MD' //Main Watermark
-global.wm2 = 'ITSUKI - MD'
-global.wm3 = 'ITSUKI - MD | BY ITSUKI - MD'
+global.wm = 'POWER - MD | BY POWER - BOTS' //Main Watermark
+global.wm2 = 'POWER - MD'
+global.wm3 = 'POWER - MD | BY POWER - BOTS'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `📮 ITSUKI - MD | By ${global.nameown}`
@@ -151,8 +151,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '❃' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '⛩ITSUKI - MD'
-global.stickauth = `BY ITSUKI - MD`
+global.stickpack = '⛩POWER - MD'
+global.stickauth = `BY POWER - MD`
 
 global.multiplier = 38 // The higher, The harder levelup
 
