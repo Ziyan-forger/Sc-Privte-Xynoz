@@ -32,7 +32,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/maouk.store'
 global.sgh = 'https://github.com/zodress'
-global.sgc = 'https://chat.whatsapp.com/G4mO5FfkELyAoBHjjWikzB'
+global.sgc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17'
 global.swa = 'wa.me/6285942994641'
 
 /*============== PAYMENT ==============*/
