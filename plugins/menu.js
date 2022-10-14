@@ -180,12 +180,12 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => './src/avatar_contact.png')
     const menu = './media/menu.jpg'
     const valor = './thumbnail.jpg'
-    let url = 'https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
+    let url = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg'
     conn.sendButton(m.chat,
-`𝚂𝚒𝚖𝚙𝚕𝚎 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 | 𝙱𝚢 Yuutaa
+`𝚂𝚒𝚖𝚙𝚕𝚎 𝙱𝚘𝚝 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 | 𝙱𝚢 Nolse
 
 ${wish()} ${name}
-`, text.trim(), `https://telegra.ph/file/b9c83f723c52fceaf0a34.jpg`, [
+`, text.trim(), `https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg`, [
       [`ꜱᴇᴡᴀʙᴏᴛ`, `${usedPrefix}sewa`],
       [`۪۪ᴀᴜᴛʜᴏʀ ʙᴏᴛ`, `${usedPrefix}owner`]
     ], m, {asLocation: false})
