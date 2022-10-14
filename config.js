@@ -107,9 +107,9 @@ global.author = 'YuuTaa✍'
 
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg' //Main Thumbnail
-global.imagebot = ' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
-global.giflogo = ' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg'
-global.thumbs = [' https://telegra.ph/file/4268ddfe6a43b3c7660ca.jpg']
+global.imagebot = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg'
+global.giflogo = 'https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg'
+global.thumbs = ['https://telegra.ph/file/dc8637b2cd2bd54095bc4.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
