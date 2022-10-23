@@ -1,6 +1,6 @@
 /*
-Script By Xynoz 📮
-No Enc? Chat wa.me/6283839200413
+Script By Zyn 📮
+Chat wa.me/6283839200413
 */
 
 import { watchFile, unwatchFile } from 'fs'
@@ -30,31 +30,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/maouk.store'
-global.sgh = 'https://github.com/zodress'
-global.sgc = 'https://chat.whatsapp.com/DbbDlICeGFuJiX9KlFyI17'
-global.swa = 'wa.me/6285942994641'
+global.sig = 'https://instagram.com/zynnpetot'
+global.sgh = 'https://github.com/Ziyan-Forger'
+global.sgc = 'https://chat.whatsapp.com/-'
+global.swa = 'wa.me/6285714056133'
 
 /*============== PAYMENT ==============*/
 global.pdana = 'HUB OWNER'
 global.povo = 'HUB OWNER'
 global.pgopay = 'HUB OWNER'
-global.ppulsa = '085172402754'
-global.ppulsa2 = '085172402754'
-global.psaweria = '-'
+global.ppulsa = '6285714056133'
+global.ppulsa2 = '-'
+global.psaweria = 'https://saweria.co/zynnxd'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628172398526'
-global.nomorown = '6285942994641'
+global.nomorbot = '6285695952575'
+global.nomorown = '9285714056133'
 global.namebot = 'POWER - MD'
-global.nameown = 'Nolse Store'
+global.nameown = 'Zynn'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285942994641', 'Nolse Store', 'true']
-  // [number, dia creator/owner?, dia developer?]
-] // Put your number here
+  ['6285714056133', 'Zynn', 'true']
+  // [number, dia  creator/owner?, dia developer?]
+] // 6285714056133
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
@@ -102,7 +102,7 @@ global.wm3 = 'POWER - MD | BY POWER - BOTS'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `📮 POWER - MD | By ${global.nameown}`
-global.author = 'Nolse✍' 
+global.author = 'Zynn✍' 
 
 
 /*============== LOGO ==============*/
